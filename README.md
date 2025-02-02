@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Orlando
+#  Hello, I'm Orlando
 
 Software development is a continuous learning process. I know that in gathering and sharing knowledge, as reflection helps us to grow as engineers and as individuals. I’m passionate about exploring new programming languages and understanding their paradigms. Every language serves a purpose: there is no all-in-one solution.
 
